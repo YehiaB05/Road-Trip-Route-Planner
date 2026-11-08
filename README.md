@@ -1,7 +1,6 @@
 # Road Trip Route Planner
 
-CSCE 2110.501 
-Team 6 — Yahya Baban and Emir Alakus
+
 
 The C++ program reads a graph of cities and roads and answers route queries.
 A city is a vertex and a road is an undirected edge. Each edge costs one
